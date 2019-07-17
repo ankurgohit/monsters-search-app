@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/monsters-search-app/static/css/main.36026095.chunk.css",
+    "main.js": "/monsters-search-app/static/js/main.50752206.chunk.js",
+    "main.js.map": "/monsters-search-app/static/js/main.50752206.chunk.js.map",
+    "runtime~main.js": "/monsters-search-app/static/js/runtime~main.8b3c6357.js",
+    "runtime~main.js.map": "/monsters-search-app/static/js/runtime~main.8b3c6357.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/monsters-search-app/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/monsters-search-app/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/monsters-search-app/index.html",
+    "precache-manifest.60f6083df6a20bd2cd2a2ab36f91d546.js": "/monsters-search-app/precache-manifest.60f6083df6a20bd2cd2a2ab36f91d546.js",
+    "service-worker.js": "/monsters-search-app/service-worker.js",
+    "static/css/main.36026095.chunk.css.map": "/monsters-search-app/static/css/main.36026095.chunk.css.map",
+    "static/media/logo.svg": "/monsters-search-app/static/media/logo.5d5d9eef.svg"
+  }
+}
